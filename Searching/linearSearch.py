@@ -13,4 +13,4 @@ arr = [2,4,1,6,8,9,10,-1]
 key = 6
 print(linearSearch(arr, key))
 
-print('hello')
+print('Namaste')
